@@ -107,13 +107,7 @@ endmodule
 ### TIMING DIAGRAMS
 ### Multiplexer:
 
-<img width="640" alt="ex7 td1" src="https://user-images.githubusercontent.com/93427522/199723950-003e0722-0c74-40a8-98f3-96759142bc1d.png">
 
-<img width="640" alt="ex7 td2" src="https://user-images.githubusercontent.com/93427522/199723976-9aaff7d6-0515-41d4-8d1e-dd274b489aa2.png">
-
-<img width="640" alt="ex7 td3" src="https://user-images.githubusercontent.com/93427522/199723995-9053afbc-be7c-43c5-ac59-c64370aa9a23.png">
-
-<img width="640" alt="ex7 td4" src="https://user-images.githubusercontent.com/93427522/199724035-945be625-a3c0-497e-9339-665fa0fb3276.png">
 
 ### De-Multiplexer
 
