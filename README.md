@@ -109,14 +109,9 @@ endmodule
 
 <img width="640" alt="ex7 td1" src="https://user-images.githubusercontent.com/93427522/199724813-935d8ea1-656d-4865-a378-62addc5203c2.png">
 
-
-
 ### De-Multiplexer:
 
 <img width="646" alt="ex7 dm td1" src="https://user-images.githubusercontent.com/93427522/199724282-0a839889-f3e0-448e-a71b-527268853dbb.png">
-
-
-
 
 ### TRUTH TABLE 
 
@@ -125,9 +120,6 @@ endmodule
 
 ### De-Multiplexer:
 <img width="614" alt="tt2 ex7" src="https://user-images.githubusercontent.com/93427522/199726051-77e65936-6abc-4131-b3ca-ebf7a2f310f1.png">
-
-
-
 
 ### RESULTS 
 Therefore 4X1 multiplexer and 1X4 de multiplexer are successfully implemented using verilog and validate its outputs
