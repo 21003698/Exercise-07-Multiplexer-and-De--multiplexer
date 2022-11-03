@@ -120,7 +120,9 @@ endmodule
 
 ### TRUTH TABLE 
 
+<img width="235" alt="tt1 ex7" src="https://user-images.githubusercontent.com/93427522/199726021-7f457c9b-e762-4e34-83cc-77c69a8c8498.png">
 
+<img width="614" alt="tt2 ex7" src="https://user-images.githubusercontent.com/93427522/199726051-77e65936-6abc-4131-b3ca-ebf7a2f310f1.png">
 
 
 
