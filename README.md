@@ -62,8 +62,8 @@ Step6:- Validate the outputs.
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by:Challa Sandeep
-RegisterNumber:212221240011
+### Developed by:Challa Sandeep
+### RegisterNumber:212221240011
 */
 ```
 ## Multiplexer
@@ -96,16 +96,28 @@ endmodule
 
 ```
 ###  RTL LOGIC  
+### Multiplexer:
 
+<img width="615" alt="ex7 rtl1" src="https://user-images.githubusercontent.com/93427522/199723850-ba16094c-db06-4ecd-96cd-fb1ada370ea0.png">
 
+### De-Multiplexer:
 
+<img width="615" alt="ex7 rtl2" src="https://user-images.githubusercontent.com/93427522/199723889-a4e1939b-7af8-4288-9528-587e73e8faaa.png">
 
+### TIMING DIAGRAMS
+### Multiplexer:
 
+<img width="640" alt="ex7 td1" src="https://user-images.githubusercontent.com/93427522/199723950-003e0722-0c74-40a8-98f3-96759142bc1d.png">
 
+<img width="640" alt="ex7 td2" src="https://user-images.githubusercontent.com/93427522/199723976-9aaff7d6-0515-41d4-8d1e-dd274b489aa2.png">
 
+<img width="640" alt="ex7 td3" src="https://user-images.githubusercontent.com/93427522/199723995-9053afbc-be7c-43c5-ac59-c64370aa9a23.png">
 
-### TIMING DIGRAMS  
+<img width="640" alt="ex7 td4" src="https://user-images.githubusercontent.com/93427522/199724035-945be625-a3c0-497e-9339-665fa0fb3276.png">
 
+### De-Multiplexer
+
+<img width="646" alt="ex7 dm td1" src="https://user-images.githubusercontent.com/93427522/199724282-0a839889-f3e0-448e-a71b-527268853dbb.png">
 
 
 
@@ -118,3 +130,5 @@ endmodule
 
 
 ### RESULTS 
+Therefore 4X1 multiplexer and 1X4 de multiplexer are successfully implemented using verilog and validate its outputs
+
