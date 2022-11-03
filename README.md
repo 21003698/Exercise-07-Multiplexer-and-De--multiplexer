@@ -111,7 +111,7 @@ endmodule
 
 
 
-### De-Multiplexer
+### De-Multiplexer:
 
 <img width="646" alt="ex7 dm td1" src="https://user-images.githubusercontent.com/93427522/199724282-0a839889-f3e0-448e-a71b-527268853dbb.png">
 
