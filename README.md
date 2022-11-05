@@ -98,11 +98,11 @@ endmodule
 ###  RTL LOGIC  
 ### Multiplexer:
 
-<img width="615" alt="ex7 rtl1" src="https://user-images.githubusercontent.com/93427522/199723850-ba16094c-db06-4ecd-96cd-fb1ada370ea0.png">
+<img width="960" alt="multi" src="https://user-images.githubusercontent.com/93427522/200120034-a2d1ff4b-0d32-4127-ba6e-eeee1f5bb06f.png">
 
 ### De-Multiplexer:
 
-<img width="615" alt="ex7 rtl2" src="https://user-images.githubusercontent.com/93427522/199723889-a4e1939b-7af8-4288-9528-587e73e8faaa.png">
+<img width="750" alt="de multi" src="https://user-images.githubusercontent.com/93427522/200120037-e1d3ebc5-9127-4144-a70d-86f5010589a6.png">
 
 ### TIMING DIAGRAMS
 ### Multiplexer:
